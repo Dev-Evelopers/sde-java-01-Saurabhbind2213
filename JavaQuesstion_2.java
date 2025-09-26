@@ -1,4 +1,5 @@
 import java.util.*;
+
 // Abstract class
 abstract class Car {
     protected boolean isSedan;
@@ -98,6 +99,3 @@ public class JavaQuesstion_2 {
                            car.getMileage() + ".");
     }
 }
-
-    
-
